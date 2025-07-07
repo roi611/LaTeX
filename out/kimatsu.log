@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.2-u2.00-250202-2.6 (utf8.uptex) (TeX Live 2025) (preloaded format=uplatex 2025.6.29)  7 JUL 2025 19:00
+This is e-upTeX, Version 3.141592653-p4.1.2-u2.00-250202-2.6 (utf8.uptex) (TeX Live 2025) (preloaded format=uplatex 2025.6.29)  7 JUL 2025 19:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -449,6 +449,11 @@ Overfull \hbox (14.60027pt too wide) in paragraph at lines 553--580
  []
 
 
+Overfull \hbox (14.60027pt too wide) in paragraph at lines 586--613
+[][][][] 
+ []
+
+
 Overfull \vbox (15.34555pt too high) has occurred while \output is active []
 
 
@@ -467,12 +472,12 @@ L3 programming layer <2025-06-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 15201 strings out of 469997
- 311657 string characters out of 5486747
- 1217725 words of memory out of 5000000
- 43458 multiletter control sequences out of 15000+600000
+ 15205 strings out of 469997
+ 311743 string characters out of 5486747
+ 1228850 words of memory out of 5000000
+ 43462 multiletter control sequences out of 15000+600000
  631874 words of font info for 71 fonts, out of 8000000 for 9000
  41 hyphenation exceptions out of 8191
  117i,21n,121p,472b,1237s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/kimatsu.dvi (5 pages, 418124 bytes).
+Output written on out/kimatsu.dvi (5 pages, 424884 bytes).
